@@ -1,0 +1,1 @@
+Olá mundo é um programa que tem como foco dizer olá ao mundo.
